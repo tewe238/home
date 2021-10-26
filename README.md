@@ -1,4 +1,8 @@
-# FOSSGIS - Home
+# FOSSGIS - Wiki
+
+This is a collection of information and materials for the course.  
+
+If you find errors or wrong/missing information, please [create a new issue](https://github.com/fossgis2122/home/issues).
 
 ## Table of contents:
 
