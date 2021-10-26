@@ -131,7 +131,10 @@ Click on the image below to watch the video tutorial.
 " target="_blank"><img src="http://img.youtube.com/vi/kVCLIPHfPDo/0.jpg" 
 alt="git_commit" width="400" height="300" border="10" /></a>
 
+For a more extensive git tutorial watch the video [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&t=507s).
 
 ## Resources
 
-The Software Carpentry provides a good `git tutorial <http://swcarpentry.github.io/git-novice/>`_.
+- The Software Carpentry provides a good `git tutorial <http://swcarpentry.github.io/git-novice/>`_.
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&t=507s)
+
