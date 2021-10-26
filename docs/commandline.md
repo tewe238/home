@@ -35,3 +35,14 @@ The commands on Windows and Unix (Max OS, Linux) systems are a bit different. If
 |     mkdir    	|     mkdir    	|     Make (new) directory    	|     mkdir testdirectory    	|
 |     rmdir (or del)    	|     rm    	|     Remove directory    	|     del c:\test\test.txt    	|
 |     rmdir /S    	|     rm -r    	|     Remove directory recursivly    	|     rm -r testdirectory    	|
+
+## Tutorial videos
+
+#### Windows
+
+*  [Windows Command Line Tutorial - 1 - Introduction to the Command Prompt](https://www.youtube.com/watch?v=MBBWVgE0ewk&t=151s)
+*  [Windows Command Line Tutorial - 2 - Listing Files and Directories](https://www.youtube.com/watch?v=7ABkcHLdG_A)
+
+#### Mac / Linux
+
+* [Absolute BEGINNER Guide to the Mac OS Terminal](https://www.youtube.com/watch?v=aKRYQsKR46I)
