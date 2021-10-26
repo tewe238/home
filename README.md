@@ -11,6 +11,10 @@ If you find errors or wrong/missing information, please [create a new issue](htt
 2. [git](./docs/git.md)
 
 
+## Assignments 
+
+[Assignment 1: QGIS](https://github.com/fossgis2122/fossgis_assignment1)
+
 <img src="https://a.fsdn.com/con/app/proj/osgeo-live/screenshots/Osgeolive_wordle.png/max/max/1" height="400" />
 
 
